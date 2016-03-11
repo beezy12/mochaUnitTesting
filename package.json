@@ -1,0 +1,26 @@
+{
+  "name": "mochaunittesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beezy12/mochaUnitTesting.git"
+  },
+  "author": "brian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beezy12/mochaUnitTesting/issues"
+  },
+  "homepage": "https://github.com/beezy12/mochaUnitTesting#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "angular": "^1.4.8"
+  }
+}
